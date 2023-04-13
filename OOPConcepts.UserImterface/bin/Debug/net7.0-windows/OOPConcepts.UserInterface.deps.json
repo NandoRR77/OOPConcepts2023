@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OOPConcepts.UserInterface/1.0.0": {
+        "dependencies": {
+          "OOPConcepts.Logic": "1.0.0"
+        },
+        "runtime": {
+          "OOPConcepts.UserInterface.dll": {}
+        }
+      },
+      "OOPConcepts.Logic/1.0.0": {
+        "runtime": {
+          "OOPConcepts.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPConcepts.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOPConcepts.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

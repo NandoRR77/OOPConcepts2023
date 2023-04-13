@@ -1,0 +1,12 @@
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\bin\Debug\net7.0\OOPConcepts.Logic.deps.json
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\bin\Debug\net7.0\OOPConcepts.Logic.dll
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\bin\Debug\net7.0\OOPConcepts.Logic.pdb
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\OOPConcepts.Logic.csproj.AssemblyReference.cache
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\OOPConcepts.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\OOPConcepts.Logic.AssemblyInfoInputs.cache
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\OOPConcepts.Logic.AssemblyInfo.cs
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\OOPConcepts.Logic.csproj.CoreCompileInputs.cache
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\OOPConcepts.Logic.dll
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\refint\OOPConcepts.Logic.dll
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\OOPConcepts.Logic.pdb
+C:\Users\sslframirezr\source\repos\OPPConcepts\OOPConcepts.Logic\obj\Debug\net7.0\ref\OOPConcepts.Logic.dll
